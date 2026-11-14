@@ -6,7 +6,7 @@
 
 ### ✨ What is Nebula?
 
-Nebula is a communication platform focused on giving users the tools to build and manage their own communities.
+Nebula is a privacy focused communication platform designed to put users in control of their digital interactions. It provides a secure space to build communities, connect with others, and communicate while prioritizing user privacy, data protection, and freedom of expression.
 
 ### 🚀 Features
 

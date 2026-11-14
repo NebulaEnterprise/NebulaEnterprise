@@ -1,4 +1,4 @@
-## <img src="https://github.com/NebulaEnterprise/nebula/blob/main/logo.webp" width="38" align="center" /> About Nebula
+## ⭐ About Nebula
 
 **Nebula** is an independent community chat platform designed to bring people together. It's a place where users can create communities, communicate, share content, and connect with others.
 
@@ -25,8 +25,8 @@ Nebula is built with user privacy in mind.
 
 - Passwords are securely hashed.
 - Messages are encrypted on supported client-side workflows.
-- Privacy-focused data handling.
-- No application-level IP address logging, according to the project's privacy policy.
+- Privacy focused data handling.
+- No application level IP address logging, according to the project's privacy policy.
 
 ### 🛠️ Development
 

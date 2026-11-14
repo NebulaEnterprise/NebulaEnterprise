@@ -58,4 +58,4 @@ I simply want to develop my software, publish my code, and use GitHub as a platf
 
 Thank you to everyone who takes the time to check out Nebula and support independent software development.
 
-**Built independently. Built for communities. ⭐**
+**Built independently. Built for communities. 💜**

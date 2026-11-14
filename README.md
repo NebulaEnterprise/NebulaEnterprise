@@ -1,4 +1,4 @@
-## <img src="https://github.com/NebulaEnterprise/nebula/blob/main/logo.webp" width="38" align="center" /> ⭐ About Nebula
+## <img src="https://github.com/NebulaEnterprise/nebula/blob/main/logo.webp" width="38" align="center" /> About Nebula
 
 **Nebula** is an independent community chat platform designed to bring people together. It's a place where users can create communities, communicate, share content, and connect with others.
 

@@ -12,9 +12,6 @@ Beyond privacy, Nebula is a place to build communities, exchange ideas, share co
 
 🔗 **Repository:** https://github.com/NebulaEnterprise/nebula
 
-### ✨ What is Nebula?
-
-Nebula is a privacy focused communication platform designed to put users in control of their digital interactions. It provides a secure space to build communities, connect with others, and communicate while prioritizing user privacy, data protection, and freedom of expression.
 
 ### 🚀 Features
 

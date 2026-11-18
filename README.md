@@ -1,6 +1,14 @@
 ## ⭐ About Nebula
 
-**Nebula** is an independent community chat platform designed to bring people together. It's a place where users can create communities, communicate, share content, and connect with others.
+**Nebula**  is an independent, privacy-focused community chat platform built around the idea that communication should remain private.
+
+The name Nebula is inspired by the vast, distant clouds of space, where things disappear into the unknown. It represents our vision for private communication: messages that can be sent, conversations that can be shared, and connections that can be made without leaving a lasting trace.
+
+Just as something sent into the vastness of space eventually disappears from sight, Nebula aims to give users a place where their conversations remain private and their digital footprints are kept to a minimum.
+
+Beyond privacy, Nebula is a place to build communities, exchange ideas, share content, and connect with others — all while putting users' privacy first.
+
+**Your conversations. Your space. Your privacy.**
 
 🔗 **Repository:** https://github.com/NebulaEnterprise/nebula
 
